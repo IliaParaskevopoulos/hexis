@@ -22,7 +22,7 @@ code { font-family: ui-monospace, Menlo, monospace; font-size: .86em; background
 .top nav a { text-decoration: none; color: var(--muted); }
 .top nav a:hover { color: var(--purple); }
 
-.hero { padding: 40px 0 40px; }
+.hero { padding: 6px 0 8px; }
 .hero .by { font-size: 14px; color: var(--muted); margin: 0 0 10px; }
 .hero .by a { color: var(--purple); font-weight: 600; text-decoration: none; }
 .hero .by a:hover { text-decoration: underline; text-underline-offset: 3px; }
@@ -30,7 +30,7 @@ code { font-family: ui-monospace, Menlo, monospace; font-size: .86em; background
 .hero p { margin: 0; color: var(--muted); font-size: 17px; }
 .hero .greek { margin-top: 10px; font-size: 13px; }
 .brand-greek { font-family: Literata, Georgia, serif; font-style: italic; font-weight: 400; font-size: 17px; color: #8E5A86; margin-left: 4px; letter-spacing: 0; }
-.hero .name-note { margin-top: 16px; max-width: 42em; font-size: 14px; line-height: 1.65; font-family: 'Literata', Georgia, serif; color: #62586A; }
+.hero .name-note { margin-top: 14px; max-width: none; font-size: 14px; line-height: 1.65; font-family: 'Literata', Georgia, serif; color: #62586A; }
 .hero .name-note i { font-style: italic; }
 
 /* Groups and cards */
