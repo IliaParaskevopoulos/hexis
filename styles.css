@@ -29,6 +29,9 @@ code { font-family: ui-monospace, Menlo, monospace; font-size: .86em; background
 .hero h1 { font-size: 40px; line-height: 1.1; font-weight: 700; color: var(--purple); margin: 0 0 12px; letter-spacing: -.01em; }
 .hero p { margin: 0; color: var(--muted); font-size: 17px; }
 .hero .greek { margin-top: 10px; font-size: 13px; }
+.brand-greek { font-family: Literata, Georgia, serif; font-style: italic; font-weight: 400; font-size: 17px; color: #8E5A86; margin-left: 4px; letter-spacing: 0; }
+.hero .name-note { margin-top: 18px; max-width: 40em; font-size: 15px; line-height: 1.6; font-family: Literata, Georgia, serif; }
+.hero .name-note i { font-style: italic; }
 
 /* Groups and cards */
 .group { margin-top: 28px; }
