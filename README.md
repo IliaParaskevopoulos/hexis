@@ -49,3 +49,7 @@ python3 -m http.server
 ```
 
 then open http://localhost:8000.
+
+## Downloads
+
+Each skill is offered as `downloads/<slug>.zip` (a folder with its SKILL.md, ready to upload to Claude), plus `downloads/hexis-all-skills.zip`. After adding or editing a skill, run `python3 build-downloads.py` and commit the result.
