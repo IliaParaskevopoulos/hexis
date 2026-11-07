@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "positioning-map",
+    "name": "Positioning map",
+    "line": "Finds the differences buyers actually choose on, maps every competitor, and writes the positioning in one phrase.",
+    "use": "A company or product needs to know where it stands and what space it can own.",
+    "gets": "A primary positioning map, a factor profile and a scored evidence table, plus a positioning phrase and statement.",
+    "origin": "Built from my positioning work.",
+    "added": "2026",
+    "group": "Strategy",
+    "give": "A company or product",
+    "get": "Positioning maps and one phrase"
+  },
+  {
+    "slug": "messaging-house",
+    "name": "Messaging house",
+    "line": "Turns a positioning into one page everyone can reuse: core message, three pillars with proof, and a foundation.",
+    "use": "Sales, marketing and leadership need to say the same thing, with proof.",
+    "gets": "A messaging house visual, persona variants, 10-second to 2-minute pitches and boilerplate, all copy-ready.",
+    "origin": "Built from my product marketing work.",
+    "added": "2026",
+    "group": "Strategy",
+    "give": "A positioning",
+    "get": "Core message, pillars, pitches"
+  },
+  {
+    "slug": "market-intelligence-newsletter",
+    "name": "Market intelligence newsletter",
+    "line": "Give it a company name. Get a weekly, sourced briefing for that company's leadership.",
+    "use": "A leadership team needs to know what competitors, regulators and the market did this week.",
+    "gets": "A minimal letter in Byzantine purple and Montserrat: bold headline, source, and 1–3 sentences on why it matters, for each item.",
+    "origin": "Built from my market intelligence work.",
+    "added": "2026",
+    "group": "Strategy",
+    "give": "A company name",
+    "get": "A weekly sourced briefing"
+  },
+  {
+    "slug": "social-media-content",
+    "name": "Social media content",
+    "line": "Posts and paid ads for LinkedIn, Instagram, Facebook and X, at the right size, ready to download.",
+    "use": "A brand needs organic posts or ad creatives for one or more platforms.",
+    "gets": "Every asset at its exact size in a preview artifact, plus a zip of PNGs and a copy sheet ready for Ads Manager.",
+    "origin": "Built from my content and campaign work.",
+    "added": "2026",
+    "group": "Content and design",
+    "give": "A brief",
+    "get": "Posts and ads, every size"
+  },
+  {
+    "slug": "brochure-maker",
+    "name": "Brochure maker",
+    "line": "Brochures that look made for one client by a good agency, not pulled from a template.",
+    "use": "Someone needs a tri-fold, bi-fold, product booklet, leaflet or flyer.",
+    "gets": "A panel map, three visual directions, a locked design system, then a print PDF with bleed, a screen PDF and a handoff note for the print shop.",
+    "origin": "Built from my brochure projects with Claude.",
+    "added": "2026",
+    "group": "Content and design",
+    "give": "A brief and assets",
+    "get": "A print-ready brochure"
+  },
+  {
+    "slug": "logo-maker",
+    "name": "Logo maker",
+    "line": "From a company's website to three named logo directions, then a final SVG kit.",
+    "use": "A client, a prospect or one of my own ventures needs a logo or brand mark.",
+    "gets": "Three directions side by side, then the chosen mark as SVG and PNG in every lockup, a mini guideline and a brand block for website builders.",
+    "origin": "Distilled from the Stromal Therapeutics and Myney logo work.",
+    "added": "2026",
+    "group": "Content and design",
+    "give": "A company website",
+    "get": "3 directions, then an SVG kit"
+  },
+  {
+    "slug": "business-card-maker",
+    "name": "Business card maker",
+    "line": "A card people keep: one clear name, one reason to remember, contacts readable at arm's length.",
+    "use": "A business card for me, a client or a venture.",
+    "gets": "Three front-and-back directions, a real tested QR code, the final card at 85 × 55 mm and print specs with paper and finish suggestions.",
+    "origin": "Built around my own AI Marketing Services card.",
+    "added": "2026",
+    "group": "Content and design",
+    "give": "Name and contacts",
+    "get": "A print-ready card with QR"
+  }
+]

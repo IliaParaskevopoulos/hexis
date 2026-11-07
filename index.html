@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hexis — Ilia Paraskevopoulos's Claude skills</title>
+<meta name="description" content="Claude skills by Ilia Paraskevopoulos. Read them and take them.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="top">
+  <a class="brand" href="#" aria-label="Hexis home"><svg class="brand-mark" viewBox="9 22 102 76" aria-hidden="true"><rect x="12" y="25" width="18" height="18" rx="3.6" fill="#1F1A1E" opacity="0.18"/><rect x="38" y="25" width="18" height="18" rx="3.6" fill="#1F1A1E" opacity="0.26"/><rect x="64" y="25" width="18" height="18" rx="3.6" fill="#1F1A1E" opacity="0.34"/><rect x="90" y="25" width="18" height="18" rx="3.6" fill="#1F1A1E" opacity="0.43"/><rect x="12" y="51" width="18" height="18" rx="3.6" fill="#1F1A1E" opacity="0.51"/><rect x="38" y="51" width="18" height="18" rx="3.6" fill="#1F1A1E" opacity="0.59"/><rect x="64" y="51" width="18" height="18" rx="3.6" fill="#1F1A1E" opacity="0.67"/><rect x="90" y="51" width="18" height="18" rx="3.6" fill="#1F1A1E" opacity="0.75"/><rect x="12" y="77" width="18" height="18" rx="3.6" fill="#1F1A1E" opacity="0.84"/><rect x="38" y="77" width="18" height="18" rx="3.6" fill="#1F1A1E" opacity="0.92"/><rect x="64" y="77" width="18" height="18" rx="3.6" fill="#1F1A1E" opacity="1.00"/><circle cx="99" cy="86" r="11.16" fill="#702963"/></svg><span>hexis</span></a>
+  <nav><a class="by" href="https://iliaparaskevopoulos.com">by Ilia Paraskevopoulos</a></nav>
+
+</header>
+
+<main id="home">
+  <section class="hero">
+    <h1>Skills I taught Claude.</h1>
+    <p>Each one turns a short input into finished work.</p>
+  </section>
+
+  <div id="groups"></div>
+
+
+
+</main>
+
+<article id="detail" class="detail" hidden>
+  <a href="#" class="back">← All skills</a>
+  <div class="d-head"><span id="d-icon" class="icon big-icon" aria-hidden="true"></span><h1 id="d-name"></h1></div>
+  <div class="io big">
+    <div><span>You give</span><b id="d-give"></b></div>
+    <i aria-hidden="true">→</i>
+    <div><span>You get</span><b id="d-get"></b></div>
+  </div>
+  <ol id="d-steps" class="steps"></ol>
+  <div class="actions">
+    <a id="d-try" class="primary" target="_blank" rel="noopener">Use it in Claude</a>
+    <a id="d-download" class="text" download>Download SKILL.md</a>
+  </div>
+  <details class="method">
+    <summary>Read the full method</summary>
+    <div id="d-body" class="md"></div>
+  </details>
+</article>
+
+<footer class="foot">
+  <p class="name-note">Ἕξις, hexis, means “a having”. In Aristotle’s <i>Nicomachean Ethics</i> it is a skill held: an ability you build by doing a thing well, again and again, until it becomes second nature. This library is the same idea for Claude.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
