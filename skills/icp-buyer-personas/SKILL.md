@@ -53,15 +53,14 @@ Lay out 5–6 stages, in the buyer's words:
 
 For each stage: which roles are active, what they do, the questions they ask, the content or proof that helps, where they look, and the typical length of the stage. Mark the stage where deals usually stall.
 
-## 6. Persona cards (one per key role, usually 3–4)
-Each card has:
-- **Name the role, not a fake person** ("Head of R&D, mid-size supplement brand"). No invented names, stock photos or ages.
-- **Goals**: what success looks like for them, in their words
-- **Pains**: 3–5 specific frustrations, each with the evidence behind it
-- **Triggers**: events that make them act now
-- **Objections**: 3 likely objections, each with a short reply
-- **Decision criteria**: what they compare on
-- **Where to find them**: specific channels, events, trade shows, publications, LinkedIn groups, communities, podcasts, associations, search terms. Name them; "social media" is not an answer.
+## 6. Persona cards (one per key role, usually 4)
+Keep each card short enough to read in 20 seconds. Each card has:
+- **Name the role, not a fake person** ("Head of R&D / NPD"). No invented names, stock photos or ages.
+- **Wants**: one line
+- **Pains**: the top 3, one short line each, with the source or "Hypothesis"
+- **Trigger**: one line
+- **Objection**: the single most likely one, with a one-line reply
+- **Find them**: one line naming real channels, events or publications ("social media" is not an answer)
 - **Opening line**: one sentence a salesperson can open with
 
 ## 7. Write it well
@@ -76,8 +75,8 @@ Build one board. If a Design or Dashboard artifact type is listed, use it; other
 Sections, top to bottom:
 1. **ICP card**: one line on who the ideal customer is, then the firmographics scorecard, signals, disqualifiers and the fit score.
 2. **Buying committee map**: a power × interest grid (or an org-style map). Each role is a labelled dot, shaped or labelled by its role in the deal; the champion and decision maker in purple, others in grey; external influencers outside the company boundary, joined to the roles they influence.
-3. **Buying journey**: a horizontal timeline of the stages. Under each stage: active roles (small labels), what they do, the key question, the content that helps, and where they look. The stall point is marked.
-4. **Persona cards**: one card per key role, side by side, with goals, pains, triggers, objections with replies, criteria, where to find them and the opening line.
+3. **Buying journey**: a visual swimlane, not text columns. Across the top, the stages as chevrons with their length; the stall stage in purple with "Deals stall here" and its column shaded. Below, one lane per role: a filled dot where the role leads the stage, a ring where it takes part, joined by a line so you see who is involved when. Under the lanes, two short rows only: "They ask" and "What helps", one line per stage.
+4. **Persona cards**: four short cards side by side in one row.
 5. **Where to find them**: a channel table, channels × personas, marking which channel reaches which role, ranked by priority.
 6. **Sources and hypotheses**, collapsed at the bottom.
 
