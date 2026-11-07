@@ -24,6 +24,18 @@
     "get": "Core message, pillars, pitches"
   },
   {
+    "slug": "icp-buyer-personas",
+    "name": "ICP and buyer personas",
+    "line": "Defines the ideal customer, maps who buys and how, and shows where to find each buyer.",
+    "use": "Sales and marketing need to know which companies to target, who decides, and how to reach them.",
+    "gets": "An ICP scorecard, a buying committee map, a buying journey and persona cards with pains, triggers, objections and channels.",
+    "origin": "Built from my go-to-market work.",
+    "added": "2026",
+    "group": "Strategy",
+    "give": "A website or deck",
+    "get": "ICP, buying committee, journey and personas"
+  },
+  {
     "slug": "market-intelligence-newsletter",
     "name": "Market intelligence newsletter",
     "line": "Give it a company name. Get a weekly, sourced briefing for that company's leadership.",
