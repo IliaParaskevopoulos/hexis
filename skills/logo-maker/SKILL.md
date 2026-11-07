@@ -25,8 +25,12 @@ Give each a short code name (like "4C Facet"). For each: one-line idea, why it f
 
 ## 3. Build
 - Hand-code each mark as clean SVG: few paths, consistent stroke/angle logic, built on a grid
-- Show each direction as: icon, wordmark, horizontal lockup — on light and dark, and at 16px favicon size
-- Present all 3 side by side on one page (Design artifact type if available, otherwise an HTML artifact)
+- Concept stage only: NO separate wordmark, light/dark lockup tiles or mono black/white versions. Those come later, in the final kit, after Ilia picks one logo.
+- Use the Stromal Therapeutics concept board format (Design artifact type, one 880×730 artboard per concept, titled "1 · Name", laid out in a grid under one canvas title):
+  - Top 400 px: two halves side by side — the mark with the company name on the light brand background, and the same on the dark brand background
+  - Middle 160 px band: the icon at 64, 32 and 16 px (left), a TYPEFACE block with font name and weights (centre), 3 colour swatches with HEX (right)
+  - Bottom 170 px band: "WHY THIS LOGO" — 3–5 plain sentences on the idea, why the shapes, colours and font fit the company
+- Show many concepts on one canvas (8–12 is normal), then iterate on the chosen one with variant boards next to it (e.g. "4C·2 · Ember")
 
 ## 4. Test before showing
 - Works in one color (black, white) and at 16px?
@@ -39,7 +43,7 @@ Give each a short code name (like "4C Facet"). For each: one-line idea, why it f
 Ilia picks one direction. Refine in tight rounds: one change set per round, show before/after. Stop polishing once it works — momentum matters more than perfection, especially in unsolicited pitches.
 
 ## 6. Final kit
-Deliver SVG + PNG (transparent, 512px and 1024px):
+Only after one logo is chosen. Deliver SVG + PNG (transparent, 512px and 1024px):
 - Primary horizontal lockup, stacked lockup, icon only, wordmark only
 - Full color, mono black, mono white (reversed)
 - favicon.svg + 32px/180px PNGs

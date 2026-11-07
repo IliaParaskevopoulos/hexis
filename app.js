@@ -112,8 +112,10 @@
     $("d-give").textContent = s.give;
     $("d-get").textContent = s.get;
     $("d-steps").innerHTML = "";
-    $("d-download").href = fileUrl(slug);
-    $("d-download").setAttribute("download", "SKILL.md");
+    $("d-download").href = "downloads/" + slug + ".zip";
+    $("d-download").setAttribute("download", slug + ".zip");
+    $("d-md").href = fileUrl(slug);
+    $("d-md").setAttribute("download", slug + "-SKILL.md");
     $("d-try").href = CLAUDE_NEW + encodeURIComponent(
       "Read this skill and follow its method for my task: " + absolute(fileUrl(slug)) +
       "\n\nMy task: "

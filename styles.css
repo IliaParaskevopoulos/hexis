@@ -113,3 +113,6 @@ code { font-family: ui-monospace, Menlo, monospace; font-size: .86em; background
   .make { padding: 22px; }
 
 }
+
+.install { font-size: 13px; color: #6B6168; margin: 10px 0 0; }
+.all { margin: 28px 0 0; }
