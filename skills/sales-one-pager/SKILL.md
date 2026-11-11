@@ -63,7 +63,7 @@ Design rules:
 - Brand colours of the company if known; otherwise Byzantine purple (#702963), near-black (#1F1A1E), light tint (#F6F1F5) and Montserrat.
 - Real proof only; no stock photos of handshakes, no generic icons that say nothing, no emoji.
 - Fits exactly one A4 page and one US Letter page with safe margins (at least 12 mm); nothing cut off when printed.
-- Readable in black and white; contrast at least 4.5:1.
+- Readable in black and white; contrast at least 4.5:1; force light colours so dark-mode viewers don't turn text white.
 - QR code must be real and point to the stated link; test it.
 
 ## 5. Write it well
