@@ -48,6 +48,30 @@
     "get": "A weekly sourced briefing"
   },
   {
+    "slug": "sales-battlecards",
+    "name": "Sales battlecards",
+    "line": "One card per competitor, plus one for doing nothing, with talk tracks, proof, quick dismisses and landmines.",
+    "use": "Sellers face a named competitor or a buyer who might do nothing, and need to know how to win in 30 seconds.",
+    "gets": "A card per competitor: how to beat them in one line, why we win and lose, quick dismiss, landmines, objections, pricing, proof and sourced, dated facts.",
+    "origin": "Built on Klue's Know-Say-Show and Fact-Impact-Act, win/loss practice and Crayon's competitive intelligence research.",
+    "added": "2026",
+    "group": "Sales enablement",
+    "give": "Your product and competitors",
+    "get": "Battlecards with talk tracks and proof"
+  },
+  {
+    "slug": "objection-handling",
+    "name": "Objection handling",
+    "line": "Finds the real concern behind each objection and gives sellers the questions, answers and proof for it.",
+    "use": "Deals stall on price, timing, risk, competitors or indecision, and sellers answer too fast.",
+    "gets": "An objection map by category and deal stage, a card per objection with explore questions, responses by root cause, proof and prevention, a top-10 cheat sheet and practice drills.",
+    "origin": "Built on Carew's LAER, Gong's research on 67,149 sales calls and Dixon and McKenna's JOLT Effect.",
+    "added": "2026",
+    "group": "Sales enablement",
+    "give": "Your product (and known objections)",
+    "get": "An objection playbook with drills"
+  },
+  {
     "slug": "social-media-content",
     "name": "Social media content",
     "line": "Posts and paid ads for LinkedIn, Instagram, Facebook and X, at the right size, ready to download.",
