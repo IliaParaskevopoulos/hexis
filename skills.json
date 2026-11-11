@@ -72,6 +72,18 @@
     "get": "An objection playbook with drills"
   },
   {
+    "slug": "sales-one-pager",
+    "name": "Sales one-pager",
+    "line": "One printable page per product or buyer role, built from the messaging house, that a buyer gets in 30 seconds and can forward.",
+    "use": "Sellers need something to leave behind or send after a meeting that explains itself to people who weren't there.",
+    "gets": "A print-ready page per product or persona: benefit headline, three benefits with proof, why us, key facts, one call to action with a QR code, as A4 and Letter PDF.",
+    "origin": "Built from the messaging house, the ICP and personas, and print and accessibility rules.",
+    "added": "2026",
+    "group": "Sales enablement",
+    "give": "A product and its messaging house",
+    "get": "Print-ready one-pagers per persona"
+  },
+  {
     "slug": "social-media-content",
     "name": "Social media content",
     "line": "Posts and paid ads for LinkedIn, Instagram, Facebook and X, at the right size, ready to download.",
