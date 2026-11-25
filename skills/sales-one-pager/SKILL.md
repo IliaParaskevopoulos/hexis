@@ -17,7 +17,7 @@ What makes a one-pager work:
 ## 1. Brief (ask only what's missing, max 4 questions, in one message)
 Inputs:
 - **Product or offer** (website, deck, spec sheet)
-- **Messaging house** if it exists (use it as the source of truth; if not, build a short one first with the messaging-house skill, or derive roof, 3 pillars and proof from the website and say so)
+- **Messaging house** if it exists (use it as the source of truth; if not, build one first with the messaging-architecture skill, or derive roof, 3 pillars and proof from the website and say so)
 - **Reader**: which buyer role(s) the page is for (e.g., Head of R&D, CFO, procurement, end user). One page per role if several. Use the ICP and buyer personas board if it exists.
 - **Industry** (optional). If named, apply the industry lens in step 3; if not, stay industry-neutral and say so.
 - **Use**: left behind after a meeting, sent as a PDF, handed out at a trade show, or included in a proposal

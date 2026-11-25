@@ -92,4 +92,4 @@ Add a "Copy" button on each persona card and on the ICP card so text can be past
 - [ ] Persona swap test: if two persona cards could swap titles without anyone noticing, sharpen them
 
 ## 10. Handoff
-In the reply: the ICP in one line, the champion and the decision maker, the stall point in the journey, the top 3 channels, and the hypotheses to validate (suggest 5 customer interviews). Offer one next step: a messaging house for the lead persona, a sales battlecard, or a target account list of 25 companies that fit the ICP.
+In the reply: the ICP in one line, the champion and the decision maker, the stall point in the journey, the top 3 channels, and the hypotheses to validate (suggest 5 customer interviews). Offer one next step: a messaging architecture for the lead persona, a sales battlecard, or a target account list of 25 companies that fit the ICP.

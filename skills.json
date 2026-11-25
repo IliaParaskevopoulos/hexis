@@ -12,16 +12,16 @@
     "get": "Positioning maps and one phrase"
   },
   {
-    "slug": "messaging-house",
-    "name": "Messaging house",
-    "line": "Turns a positioning into one page everyone can reuse: core message, three pillars with proof, and a foundation.",
-    "use": "Sales, marketing and leadership need to say the same thing, with proof.",
-    "gets": "A messaging house visual, persona variants, 10-second to 2-minute pitches and boilerplate, all copy-ready.",
-    "origin": "Built from my product marketing work.",
+    "slug": "messaging-architecture",
+    "name": "Messaging architecture",
+    "line": "One messaging system from brand promise to features, with the messaging house at its centre.",
+    "use": "Teams say different things in different places, and nobody knows which claims are safe to use.",
+    "gets": "A message map, a messaging house, messages per persona and buying stage, a proof library with Use / Confirm / Don't use, channel versions from tagline to 100 words, pitches, boilerplate and governance.",
+    "origin": "Built on the messaging house, message hierarchy practice and claims governance.",
     "added": "2026",
     "group": "Strategy",
-    "give": "A positioning",
-    "get": "Core message, pillars, pitches"
+    "give": "A company (and its positioning)",
+    "get": "A full messaging system in one page"
   },
   {
     "slug": "icp-buyer-personas",
