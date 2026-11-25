@@ -131,7 +131,7 @@
       $("d-steps").innerHTML = steps(txt).map(function (t) { return "<li>" + esc(t) + "</li>"; }).join("");
     };
     if (cache[slug]) return done(cache[slug]);
-    fetch(fileUrl(slug)).then(function (r) { if (!r.ok) throw 0; return r.text(); })
+    fetch(fileUrl(slug), { cache: "no-cache" }).then(function (r) { if (!r.ok) throw 0; return r.text(); })
       .then(function (t) { cache[slug] = t; done(t); })
       .catch(function () { $("d-body").innerHTML = '<p>Could not load this skill. <a href="' + esc(fileUrl(slug)) + '">Open the file directly.</a></p>'; });
   }
@@ -156,7 +156,7 @@
   window.addEventListener("hashchange", route);
 
   // ---------- Boot ----------
-  fetch("skills.json").then(function (r) { return r.json(); })
+  fetch("skills.json", { cache: "no-cache" }).then(function (r) { return r.json(); })
     .then(function (data) { skills = data; renderList(); route(); })
     .catch(function () {
       $("list").innerHTML = '<li class="empty">The library could not load. If you opened this file from your computer, run <code>python3 -m http.server</code> in this folder and open http://localhost:8000.</li>';

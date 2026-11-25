@@ -53,3 +53,7 @@ then open http://localhost:8000.
 ## Downloads
 
 Each skill is offered as `downloads/<slug>.zip` (a folder with its SKILL.md, ready to upload to Claude), plus `downloads/hexis-all-skills.zip`. After adding or editing a skill, run `python3 build-downloads.py` and commit the result.
+
+## Updating the site
+
+When you change app.js or styles.css, bump the `?v=` number in index.html so browsers load the new files. skills.json and SKILL.md files are always fetched fresh.
